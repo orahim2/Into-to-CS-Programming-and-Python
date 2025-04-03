@@ -29,7 +29,7 @@ circumference = pi*(radius*2)
 a = 355/113 *(2.2**2)
 c = 355/113 *(2.2*2)
 
-# Example 2
+# Example 2 two
 p = 355/113
 r = 2.2
 #multiply p with r squared
